@@ -11,7 +11,7 @@ public class Calculator {
 
 
             switch (ch) {
-                case '+':                    bb(operand1, operand2);
+                case '+':                bb(operand1, operand2);
                     break;
                 case '-':
                     dd(operand1, operand2);

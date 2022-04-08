@@ -19,7 +19,7 @@ public class BeerSong {
                     System.out.println(BeerNum + "" + word + " пива на стене");
                 }
                 else {
-                 System.out.println("Пива нет");
+                 System.out.println("Пива ");
              }
         }
     }
